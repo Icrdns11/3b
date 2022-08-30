@@ -1,0 +1,59 @@
+*{
+  text-decoration: none !important;
+}
+.hero{
+  background-color: #edeef0 !important;
+}
+h1,h2,h3{
+  font-family: 'Oswald', sans-serif !important;
+}
+h4{
+  font-size: 20px !important;
+}
+p{
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 200 !important;
+}
+footer{
+  font-size: 14px !important;
+}
+.a{
+  font-family: 'Raleway', sans-serif !important;
+}
+#rss:hover{
+  color: #0dcaf0 !important;
+}
+.nav-link:hover{
+  color: #0dcaf0 !important;
+  text-decoration: 5px !important;
+}
+.img-fluid{
+  filter: grayscale();
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in;
+}
+.img-fluid:hover{
+  filter: none;
+  transform: scale(1.04);
+}
+#cartas{
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in;
+}
+#cartas:hover{
+  transform: scale(1.05);
+}
+.btn-outline-light:hover{
+  color: #0dcaf0 !important;
+}
+#im-or:hover{
+  color: orange;
+}
+#cartas i{
+  background-color:#0dcaf023;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+}
